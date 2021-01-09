@@ -7,5 +7,10 @@
 * :whale: **Амараа** ([git1234mn](https://github.com/git1234mn), pmind2015@gmail.com) `java10 react2 node.js2 next.js2 javascript6` | `react2 flutter1 react-native3 laravel5`
 
 
+`git add [file-name.txt]` `file-name.txt файлыг стэйжид хийнэ`
+
+`git add [file-name.txt]` **file-name.txt файлыг стэйжид хийнэ**
+
 `git add [file-name.txt]` _file-name.txt файлыг стэйжид хийнэ_
+
 `git add [file-name.txt]` _**file-name.txt файлыг стэйжид хийнэ**_
