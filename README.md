@@ -1,6 +1,6 @@
 # hellogit :octocat: 
 
-:rocket: Энэ төсөлд оролцож буй хүмүүс: :rocket: 
+:rocket: [git, github эхнээс нь дуустал](https://1234.mn/course/108) сургалтанд суусан хүмүүс: :rocket: 
 -
 
 * :lipstick: **Өсөхөө** ([usuh123](https://github.com/git1234mn), usuhuu1979@gmail.com) `php15 angular4`
