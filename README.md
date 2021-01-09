@@ -1,6 +1,6 @@
-# hellogit
+# hellogit :octocat: 
 
-Энэ төсөлд оролцож буй хүмүүс: :sparkles: 
+:rocket: Энэ төсөлд оролцож буй хүмүүс: :sparkles: 
 -
 
 * **Өсөхөө** ([usuh123](https://github.com/git1234mn), usuhuu1979@gmail.com) `php angular`
